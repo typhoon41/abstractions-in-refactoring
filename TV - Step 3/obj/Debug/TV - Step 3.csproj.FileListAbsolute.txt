@@ -1,0 +1,8 @@
+C:\Users\nikola.dragicevic\Desktop\Abstractions\TV - Step 3\obj\Debug\TV - Step 3.csprojAssemblyReference.cache
+C:\Users\nikola.dragicevic\Desktop\Abstractions\TV - Step 3\obj\Debug\TV___Step_3.Resources.Labels.resources
+C:\Users\nikola.dragicevic\Desktop\Abstractions\TV - Step 3\obj\Debug\TV___Step_3.Resources.Labels.de.resources
+C:\Users\nikola.dragicevic\Desktop\Abstractions\TV - Step 3\obj\Debug\TV___Step_3.Resources.Labels.es.resources
+C:\Users\nikola.dragicevic\Desktop\Abstractions\TV - Step 3\obj\Debug\TV___Step_3.Resources.Labels.fr.resources
+C:\Users\nikola.dragicevic\Desktop\Abstractions\TV - Step 3\obj\Debug\TV___Step_3.Resources.Labels.zh.resources
+C:\Users\nikola.dragicevic\Desktop\Abstractions\TV - Step 3\obj\Debug\TV - Step 3.csproj.GenerateResource.cache
+C:\Users\nikola.dragicevic\Desktop\Abstractions\TV - Step 3\obj\Debug\TV - Step 3.csproj.CoreCompileInputs.cache
